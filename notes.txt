@@ -1,0 +1,62 @@
+Tentative Schedule:
+
+9-10: Setup
+10-10:30 Opening Presentation
+10:30-11 Introductions
+11-12 Workshop: Processing
+12-2 Lunch (BYO, or in Museum Cafe)
+2-3 Free Productive Play
+3-3:40 Closing Presentation
+3:40-4 Socializing until close
+4-5 Cleanup
+
+
+Program:
+- Opening: What's coming soon from Creative Coding HNL
+  - openFrameworks
+  - Cinder: 
+    - Cocoacid: http://cocoacid.org/ios/
+  - WebGL:
+    - CoffeePhysics: http://soulwire.github.com/Coffee-Physics/
+    - THREE.js: http://mrdoob.github.com/three.js/
+  - Processing:
+    - The Nature of Code: https://vimeo.com/channels/natureofcode
+    - Rune Madsen's Printing Code: See below
+    - Geomerative
+
+- Workshop:
+  - Processing: Graphics Design
+    - See Rune Madsen Stuff below
+    - Generative Typography: http://freeartbureau.org/fab_activity/typographie-generative/
+    - Geomerative:
+    http://freeartbureau.org/fab_activity/geomerative-tutorial-part-1/
+
+- Closing: 
+  - Something fun.
+
+Questions:
+- can we work in the cafe area before it is open?
+- 
+
+Support:
+- WIFI
+  - Bob and Kyle can support 16 connections on our YourKarma devices
+  - Tony has a Clear router
+  - iPad to Macbook Pro w/ Shared WIFI connection? - requires testing
+- Setup
+- Teardown
+
+
+Links:
+Rune Madsen - Printing Code: Programming and the Visual Arts
+https://vimeo.com/61113159
+https://github.com/runemadsen/printing-code
+http://bit.ly/printingcode
+
+Quotes:
+Processing seeks to ruin the careers of talented designers by tempting
+them away from their usual tools and into the world of programming and
+computation.  Similarly, the project is designed to turn engineers and
+computer scientists to less gainful employment as artists and
+designers.
+- Ben Fry
